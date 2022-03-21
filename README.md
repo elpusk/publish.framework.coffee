@@ -3,16 +3,13 @@ publish [coffee frame work](https://github.com/elpusk/publish.framework.coffee/w
 this framework supports communication between web brower and USB device.
 
 ## the current version
-installer v1.10
-* coffee_manager.exe : fixed - resize(x,0) problem.
-* coffee_manager.exe : added - check service dll's code sign.(only the signed service dll is loaded. )
-* sd_helloworld.dll : fixed - exception of sd_helloworld.dll at multi client.
-* sd_helloworld.dll : changed - worker thread managment.
+installer v1.11
+* coffee_manager.exe : fixed - device is not closed when rom file index is error.
 
 01. [cm_boot_manager.exe](https://github.com/elpusk/publish.framework.coffee/wiki/cm_boot_manager.exe) - 1.0
 02. [coffee_config.exe](https://github.com/elpusk/publish.framework.coffee/wiki/coffee_config.exe) - 1.3
 03. [coffee_control.exe](https://github.com/elpusk/publish.framework.coffee/wiki/coffee_control.exe) - 1.4
-04. [coffee_manager.exe](https://github.com/elpusk/publish.framework.coffee/wiki/coffee_manager.exe) - 1.10.0
+04. [coffee_manager.exe](https://github.com/elpusk/publish.framework.coffee/wiki/coffee_manager.exe) - 1.11.0
 05. [coffee_service.exe](https://github.com/elpusk/publish.framework.coffee/wiki/coffee_service.exe) - v1.0
 06. [cf_bl_elpusk_hid.dll](https://github.com/elpusk/publish.framework.coffee/wiki/cf_bl_elpusk_hid.dll) - v1.1
 07. cm_bl_hid_elpusk.dll - v1.2
